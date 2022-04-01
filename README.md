@@ -1,10 +1,8 @@
-# SC-V5
-https://youtube.com/channel/UCJi3qEvIX7AZyRowqSTnoig
+<p align="center">
+<img src="https://c.top4top.io/p_2281qhnfl1.jpg" width="500"/>
 
-https://apiRzL.herokuapp.com
 
-jika mau add fitur lain silakan mampir ke
-rest api gw yg ada di atas
+https://youtube.com/channel/UCRdVtigRg90kQ6Xs1q655vw
 
 Jangan lupa juga subscribe youtube saya
 
